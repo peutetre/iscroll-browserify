@@ -2,6 +2,12 @@
 
 Just `module.exports` `IScroll`
 
+### Install
+
+```
+npm install iscroll-browserify
+```
+
 ### Usage
 
 ```javascript
