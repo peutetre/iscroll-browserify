@@ -1,0 +1,28 @@
+{
+  "name": "iscroll-browserify",
+  "version": "0.0.0",
+  "description": "a commonjs module for iscroll",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/peutetre/iscroll-browserify.git"
+  },
+  "scripts": {
+    "install": "node ./build.js"
+  },
+  "main": "index.js",
+  "keywords": [
+    "iscroll",
+    "browserify"
+  ],
+  "author": "Paul Panserrieu <paul@42loops.com> (http://42loops.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peutetre/iscroll-browserify/issues"
+  },
+  "dependencies": {
+    "iscroll": "5.0.6"
+  },
+  "devDependencies": {
+    "q-io": "~1.10.6"
+  }
+}
