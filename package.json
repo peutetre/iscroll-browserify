@@ -7,7 +7,7 @@
     "url": "git://github.com/peutetre/iscroll-browserify.git"
   },
   "scripts": {
-    "install": "node ./build.js"
+    "prepublish": "node build.js"
   },
   "main": "index.js",
   "keywords": [
