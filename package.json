@@ -1,6 +1,6 @@
 {
   "name": "iscroll-browserify",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a commonjs module for iscroll",
   "repository": {
     "type": "git",
